@@ -14,3 +14,12 @@
         margin-left: 1920px;
     }
 }
+
+.mediaSourceIndicator {
+    background: rgb(31, 80, 189);
+    position: absolute;
+    left: -5px;
+    top: -5px;
+    border-radius: 0px 0px 20px 0px;
+    padding: 5px;
+}
