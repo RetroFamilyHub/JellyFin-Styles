@@ -1,0 +1,16 @@
+.MuiDrawer-paper {
+    width:300px!important;
+}
+
+@media (min-width: 900px) {
+    .dashboardDocument .mainAnimatedPage:not(.metadataEditorPage) {
+        left: 300px;
+    }
+}
+
+@media (min-width: 900px) {
+    .css-1wf38nq {
+        width: calc(100% - 300px);
+        margin-left: 1920px;
+    }
+}
